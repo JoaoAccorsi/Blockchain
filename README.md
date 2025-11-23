@@ -2,7 +2,7 @@
 
 Blockchain is a distributed technology which works with a history of public transactions, consisting of a chain of data packets called blocks. The central concept is the use of encrypted data where each block contains transactions, a timestamp, a hash key built with the data within the block and connected to the next block. Real blockchain networks also have a nonce (a random number that validates the block).
 
-![blockchain-image](blockchain-image.png)
+<img width="2018" height="380" alt="image" src="https://github.com/user-attachments/assets/5453f7b7-1054-4aaa-a74e-f6e57e42b82a" />
 
 Based in article [What Is the Blockchain?](https://cse.sc.edu/~mgv/csce190f18/diPierro_mcs2017050092.pdf), from Massimo Di Pierro, this sample project has been implemented to simulate a blockhain network for study purposes.
 
@@ -30,4 +30,4 @@ python3 blockchain.py
 
 ## 📈 Output
 
-![sample-output](sample-output.png)
+<img width="1150" height="1078" alt="image" src="https://github.com/user-attachments/assets/7859422b-1bc0-4f6a-8803-bd8a31f572f0" />

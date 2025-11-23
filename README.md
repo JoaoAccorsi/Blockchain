@@ -28,6 +28,7 @@ This code is a simple demonstration of a blockchain:
 ## 🚀 How to run it?
 
 ```
+git clone https://github.com/JoaoAccorsi/Blockchain.git
 python3 blockchain.py
 ```
 
